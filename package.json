@@ -1,0 +1,25 @@
+{
+  "name": "mach5-backend",
+  "version": "0.0.1",
+  "description": "a CMS for fast projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caina/Mach5-back.git"
+  },
+  "keywords": [
+    "cms",
+    "backend",
+    "fast",
+    "simple"
+  ],
+  "author": "caina27",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caina/Mach5-back/issues"
+  },
+  "homepage": "https://github.com/caina/Mach5-back#readme"
+}
