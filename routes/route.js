@@ -17,6 +17,4 @@ glob('modules/*/*.route.js', (err, files) => {
 })
 
 // Add your fixed routes here
-
-
 module.exports = router;

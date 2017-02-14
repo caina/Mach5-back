@@ -3,4 +3,3 @@
 
 ## What we seek
 A simple and fast to use CMS using Node and Mongo.
-
