@@ -1,4 +1,4 @@
-'use-strict';
+'use strict';
 const UserController = require('./userController');
 let userController = new UserController();
 

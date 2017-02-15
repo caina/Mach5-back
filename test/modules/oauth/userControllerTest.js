@@ -1,3 +1,5 @@
+'use strict'
+
 var assert = require('assert');
 var UserController = require('root-require')('modules/oauth/userController');
 let userController = new UserController();
